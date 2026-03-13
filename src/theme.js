@@ -1,0 +1,15 @@
+export const T = {
+  bg: "#0B0B0F",
+  surf: "rgba(255,255,255,0.045)",
+  surfBorder: "rgba(255,255,255,0.10)",
+  text1: "#F5F5F7",
+  text2: "#A1A1AA",
+  text3: "#6B7280",
+  blue: "#4F8CFF",
+  purple: "#9C6BFF",
+  green: "#34C759",
+  orange: "#FF9F0A",
+  red: "#FF453A",
+  cyan: "#5AC8FA",
+  violet: "#BF5AF2",
+};
